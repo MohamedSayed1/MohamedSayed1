@@ -73,9 +73,9 @@ I love solving hard problems, writing clean code, and delivering stable systems 
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedSayed1&show_icons=true&theme=radical)
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simicolonDeve&show_icons=true&theme=radical)
+
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedSayed1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simicolonDeve&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
 ---
